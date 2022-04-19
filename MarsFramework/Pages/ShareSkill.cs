@@ -263,7 +263,7 @@ namespace MarsFramework.Pages
         {
 
             //Click on share skill button
-            GlobalDefinitions.WaitForElementClickable(GlobalDefinitions.driver, By.LinkText("Share Skill"), 5);
+            GlobalDefinitions.WaitForElementClickable(GlobalDefinitions.driver, By.LinkText("Share Skill"), 10);
             
             ShareSkillButton.Click();
             

@@ -70,7 +70,7 @@ namespace MarsFramework.Config {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to C:\Users\mejyo\Desktop\Advanced Task\marsframework-master\MarsFramework\Config\ExcelData\TestDataShareSkill.xlsx.
+        ///   Looks up a localized string similar to MarsFramework\Config\ExcelData\TestDataShareSkill.xlsx.
         /// </summary>
         internal static string ExcelPath {
             get {

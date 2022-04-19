@@ -122,7 +122,7 @@
     <comment>1 for firefox and 2 for Chrome</comment>
   </data>
   <data name="ExcelPath" xml:space="preserve">
-    <value>C:\Users\mejyo\Desktop\Advanced Task\marsframework-master\MarsFramework\Config\ExcelData\TestDataShareSkill.xlsx</value>
+    <value>MarsFramework\Config\ExcelData\TestDataShareSkill.xlsx</value>
   </data>
   <data name="IsLogin" xml:space="preserve">
     <value>true</value>
